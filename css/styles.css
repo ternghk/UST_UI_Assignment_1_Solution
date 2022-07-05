@@ -1,0 +1,73 @@
+.box-info {
+	margin: 0px;
+}
+
+.jumbotron {
+	background-color: mediumpurple;
+	color:  white;
+	box-sizing: border-box;
+	overflow: auto;
+	margin-bottom: 0px;
+}
+
+.jumbotron h1 {
+	margin: 0;
+	font-size: 3.0rem;
+
+}
+
+.jumbotron p {
+	font-size: 1.0rem;
+	box-sizing: border-box;
+	margin-top: 10px;
+	padding: 0;
+
+}
+
+.row-header {
+	margin: 0px;
+}
+
+.frame-info {
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+.box-aboutus {
+	margin: 0px;
+}
+
+
+.box-history {
+	/*max-width: 470px;*/
+	margin-top: 50px;
+	margin-left: 20px;
+	margin-right: 20px;
+	font-size: 1.2rem;
+}
+
+.box-corp {
+	margin-top: 100px;
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
+
+.box-corp	h2 {
+	font-size: 2.3rem;
+}
+
+.box-corp	h3 {
+	font-size: 2.0rem;
+}
+
+
+.footer {
+	background-color: #D7BDE2;
+	margin-top: 60px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-top: 20px;
+}
+
+
